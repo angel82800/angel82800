@@ -36,8 +36,8 @@
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <p align="left">
-    <img width="49.5%" src="https://github-profile-trophy.vercel.app/?username=angel82800&column=4&theme=onedark"/>
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel82800&&layout=pie&theme=yeblu">             
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=angel82800&column=4&theme=onedark"/>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel82800&&layout=pie&theme=yeblu">             
 </p>
   
 </div>
