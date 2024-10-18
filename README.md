@@ -4,9 +4,8 @@
 
 ## Hi there 👋
 
-<ul>
-<strong>React, Angular, Vue.js, Node, Python, PHP, Blockchain, and Cloud stuff</strong>.</li>
-</ul>
+
+<strong>React, Angular, Vue.js, Node, Python, PHP, Blockchain, and Cloud stuff</strong>.</strong>
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
