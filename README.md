@@ -1,9 +1,6 @@
-
-
 ![](https://komarev.com/ghpvc/?username=angel82800)
 
 ## Hi there 👋
-
 
 <strong>React, Angular, Vue.js, Node, Python, PHP, Blockchain, and Cloud stuff</strong>.</strong>
 
