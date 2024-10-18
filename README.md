@@ -47,6 +47,6 @@
 </p>
 
 <p align="left">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=angel82800&show_icons=true&theme=blueberry&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=angel82800&theme=blueberry&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=angel82800&show_icons=true&theme=yeblu" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=angel82800&theme=yeblu" />
 </p>
