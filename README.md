@@ -38,7 +38,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=angel82800&column=9&theme=onedark"/>
 </div>
 
-<p  align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
 
@@ -46,3 +46,8 @@
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=angel82800&show_icons=true&theme=yeblu" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=angel82800&theme=yeblu" />
 </p>
+
+<p align="center">
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=angel82800)">             
+</p>
+
