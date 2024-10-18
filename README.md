@@ -39,7 +39,7 @@
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=angel82800&column=8&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=angel82800&column=10&theme=onedark"/>
 </div>
 
 <p  align="center">
